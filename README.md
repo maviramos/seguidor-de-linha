@@ -1,0 +1,32 @@
+# Seguidor-de-Linha-Arduino
+Projeto realizado no curso de Arduino e Dispositivos Robóticos (IFC), no qual a atividade proposta foi de elaborar um carro de corrida autonomo que seguirá uma linha para completar o circuito. O robô foi feito utilizando a IDE do Arduino.
+
+![IMG-20221125-WA0020](https://user-images.githubusercontent.com/105740844/204027276-1c06dcb2-1a2e-4192-b80c-b19d4fae6fe9.jpg)
+
+<h1>Código</h1>
+
+![Codigo](https://user-images.githubusercontent.com/105740844/204033972-636e069d-b059-4f4c-b2d0-a930f20b9887.png)
+
+<h1>Componentes utilizados</h1>
+
+1 Placa Arduino Uno R3.
+
+![arduinoo](https://user-images.githubusercontent.com/105740844/203981705-96eb6162-4a6a-4fea-bb37-77692009177d.png)
+
+<hr>
+
+2 Motores Dc com rodas.
+
+![motor_e_roda](https://user-images.githubusercontent.com/105740844/203978022-849cee2d-e7b5-42c9-8024-7e00e0ccbaea.png)
+
+<hr>
+
+1 Módulo Sensor de linha.
+
+![sensorlinha](https://user-images.githubusercontent.com/105740844/203982100-b1726ee6-d971-41aa-8229-c2a64a901750.png)
+
+<hr>
+
+1 Ponte H.
+
+![drivePonteH](https://user-images.githubusercontent.com/105740844/203980720-5cfa687b-a5e3-4968-87e9-9a2efde78f17.jpg)
